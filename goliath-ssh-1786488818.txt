@@ -1,0 +1,1 @@
+exfil canary goliath-ssh-1786488818.txt 1786488991278436416
